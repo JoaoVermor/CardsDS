@@ -1,0 +1,33 @@
+.App{
+    width: 100%; 
+    margin: 0 auto;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../images/background.jpeg);
+  background-size: cover;
+  background-position: 100%;
+}
+
+.inner{
+    display: flex;
+}
+
+.item{
+    min-width: 400px;
+    min-height: 200px;
+    padding: 50px;
+}
+
+.item img{
+    width: 450px;
+    height: 250px;
+    border-radius: 12px;
+    pointer-events: none;
+}
+
+.carousel{
+    cursor: grab;
+    overflow: hidden;
+}

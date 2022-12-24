@@ -1,0 +1,22 @@
+.about{
+    margin: 0;
+    padding: 188px;
+    background-image: url(../images/background1.jpeg);
+    background-repeat: no-repeat;
+}
+
+.t1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px black;
+
+}
+
+.p1{
+    font-size: xx-large;
+    text-align: center;
+    text-indent: 60px;
+    text-shadow: 2px 2px black;
+    
+
+}
